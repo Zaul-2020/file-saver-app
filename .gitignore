@@ -1,0 +1,20 @@
+# Windows System Files
+desktop.ini
+Thumbs.db
+
+# macOS System Files
+.DS_Store
+
+# Python Cache and Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+ENV/
+
+# Private Environment/Password Files
+.env
+*.log
