@@ -8,7 +8,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 # Create main window
 window = tk.Tk()
-window.title("Professional File Manager")
+window.title("Data explorer")
 window.geometry("900x600")
 window.configure(bg="#f4f4f4")
 
